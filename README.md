@@ -12,8 +12,7 @@ Tenho interesse em Python, desenvolvimento de APIs REST, tratamento de dados e g
 
 ## 🧪 Projetos
 - **Calculadora em Python** — exercício acadêmico para praticar operações matemáticas, controle de fluxo e tratamento de erros.  
-- [Outro projeto se tiver, ou algo que vai criar]  
-
+-https://github.com/Pedroenrik/calculadora-python/blob/main/calculadora.py
 ## 💬 Competências pessoais
 - Comunicação clara  
 - Trabalho em equipe  
