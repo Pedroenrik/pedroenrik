@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Pedro Enrik
 
-<!--
-**Pedroenrik/pedroenrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Back-End.  
+Tenho interesse em Python, desenvolvimento de APIs REST, tratamento de dados e garantia de qualidade de código.
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias que domino / estudo:
+- Python  
+- APIs REST  
+- Git / GitHub  
+- Banco de Dados  
+- Boas práticas de código e tratamento de erros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projetos
+- **Calculadora em Python** — exercício acadêmico para praticar operações matemáticas, controle de fluxo e tratamento de erros.  
+- [Outro projeto se tiver, ou algo que vai criar]  
+
+## 💬 Competências pessoais
+- Comunicação clara  
+- Trabalho em equipe  
+- Resolução de problemas  
+
+## 📫 Como me encontrar  
+https://www.linkedin.com/in/pedro-enrik-78b711384/
